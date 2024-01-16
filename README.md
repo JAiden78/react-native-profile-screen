@@ -1,5 +1,5 @@
 # react-native-profile-screen
-This repo conatins the code for a profile screen similar to instagram where General profile information is displayed at the top of the list and selectable tabs are created for posts feed and grid display.
+This repo contains the code for a profile screen similar to instagram where General profile information is displayed at the top of the list and selectable tabs are created for posts feed and grid display.
 
 The profile screen also has the video autoplay feature. If the post that is currently in view contains a video, the video is played and previously playing video is paused. This is done using onViewableItemsChanged configuration of the Flatlist.
 
